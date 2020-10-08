@@ -1,0 +1,1 @@
+[{"name":"users","properties":[{"name":"__v","types":["number"],"values":[0]},{"types":["undefined"],"values":[null]},{"name":"email","types":["string"],"values":["manish@gmail.com"]},{"name":"name","types":["string"],"values":["manish"]},{"name":"password","types":["string"],"values":["123456"]}],"relationships":[]}]
